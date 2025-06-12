@@ -12,7 +12,7 @@ This script allows you to choose and install one of the following:
 
 ## 🚀 Quick Start
 
-Run the following command as **root** to execute the installer directly from GitHub:
+Run the following command as **root** to execute the installer directly from our installer:
 
 ```bash
 bash <(curl -s https://yourhostscript.tv-game.dev/)
