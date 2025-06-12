@@ -1,4 +1,4 @@
-# Universal Installer Script
+# YourHostScript
 
 This script allows you to choose and install one of the following:
 
@@ -15,4 +15,4 @@ This script allows you to choose and install one of the following:
 Run the following command as **root** to execute the installer directly from GitHub:
 
 ```bash
-bash <(curl -s commingsoon)
+bash <(curl -s https://yourhostscript.tv-game.dev/)
